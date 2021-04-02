@@ -1,0 +1,12 @@
+html, body {
+  margin: 100;
+  padding: 0;
+  border: solid; 
+}
+canvas {
+  display: block;
+}
+script{
+  border : solid;
+  margin-left: 100px;
+}
